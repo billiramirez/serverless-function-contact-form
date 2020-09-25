@@ -1,0 +1,18 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "a contact form",
+  "main": "index.js",
+  "author": "Billi Ramirez <billyramirezalex@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.24.65",
+    "mailgun-js": "^0.22.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
